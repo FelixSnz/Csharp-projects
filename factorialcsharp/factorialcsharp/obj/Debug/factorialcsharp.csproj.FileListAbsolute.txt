@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\bin\Debug\factorialcsharp.exe.config
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\bin\Debug\factorialcsharp.exe
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\bin\Debug\factorialcsharp.pdb
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\obj\Debug\factorialcsharp.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\obj\Debug\factorialcsharp.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\obj\Debug\factorialcsharp.exe
+C:\Users\felix\source\repos\factorialcsharp\factorialcsharp\obj\Debug\factorialcsharp.pdb

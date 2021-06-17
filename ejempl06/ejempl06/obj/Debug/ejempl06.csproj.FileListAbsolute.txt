@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\ejempl06\ejempl06\bin\Debug\ejempl06.exe.config
+C:\Users\felix\source\repos\ejempl06\ejempl06\bin\Debug\ejempl06.exe
+C:\Users\felix\source\repos\ejempl06\ejempl06\bin\Debug\ejempl06.pdb
+C:\Users\felix\source\repos\ejempl06\ejempl06\obj\Debug\ejempl06.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\ejempl06\ejempl06\obj\Debug\ejempl06.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\ejempl06\ejempl06\obj\Debug\ejempl06.exe
+C:\Users\felix\source\repos\ejempl06\ejempl06\obj\Debug\ejempl06.pdb

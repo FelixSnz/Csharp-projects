@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\felix\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\felix\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\felix\source\repos\Timer\Timer\bin\Debug\Timer.xml
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.Resources.resources
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.xml
+C:\Users\felix\source\repos\Timer\Timer\obj\Debug\Timer.pdb

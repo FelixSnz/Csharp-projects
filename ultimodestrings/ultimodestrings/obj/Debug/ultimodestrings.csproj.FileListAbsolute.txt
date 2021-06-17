@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\obj\Debug\ultimodestrings.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\obj\Debug\ultimodestrings.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\bin\Debug\ultimodestrings.exe.config
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\bin\Debug\ultimodestrings.exe
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\bin\Debug\ultimodestrings.pdb
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\obj\Debug\ultimodestrings.exe
+C:\Users\felix\source\repos\ultimodestrings\ultimodestrings\obj\Debug\ultimodestrings.pdb

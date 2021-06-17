@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\bin\Debug\practica con funcion.exe.config
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\bin\Debug\practica con funcion.exe
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\bin\Debug\practica con funcion.pdb
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\bin\Debug\practica con funcion.xml
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica con funcion.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica_con_funcion.Form1.resources
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica_con_funcion.Resources.resources
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica con funcion.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica con funcion.exe
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica con funcion.xml
+C:\Users\felix\source\repos\practica con funcion\practica con funcion\obj\Debug\practica con funcion.pdb

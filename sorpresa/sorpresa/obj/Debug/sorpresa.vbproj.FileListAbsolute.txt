@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\sorpresa\sorpresa\bin\Debug\sorpresa.exe.config
+C:\Users\felix\source\repos\sorpresa\sorpresa\bin\Debug\sorpresa.exe
+C:\Users\felix\source\repos\sorpresa\sorpresa\bin\Debug\sorpresa.pdb
+C:\Users\felix\source\repos\sorpresa\sorpresa\bin\Debug\sorpresa.xml
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.Form1.resources
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.Resources.resources
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.exe
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.xml
+C:\Users\felix\source\repos\sorpresa\sorpresa\obj\Debug\sorpresa.pdb

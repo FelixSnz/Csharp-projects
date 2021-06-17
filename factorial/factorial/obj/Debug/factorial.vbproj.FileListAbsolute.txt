@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\factorial\factorial\bin\Debug\factorial.exe.config
+C:\Users\felix\source\repos\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\felix\source\repos\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\felix\source\repos\factorial\factorial\bin\Debug\factorial.xml
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.Form1.resources
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.Resources.resources
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.xml
+C:\Users\felix\source\repos\factorial\factorial\obj\Debug\factorial.pdb

@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\felix\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\felix\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\felix\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\felix\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

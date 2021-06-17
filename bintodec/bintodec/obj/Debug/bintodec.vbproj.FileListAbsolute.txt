@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\bintodec\bintodec\bin\Debug\bintodec.exe.config
+C:\Users\felix\source\repos\bintodec\bintodec\bin\Debug\bintodec.exe
+C:\Users\felix\source\repos\bintodec\bintodec\bin\Debug\bintodec.pdb
+C:\Users\felix\source\repos\bintodec\bintodec\bin\Debug\bintodec.xml
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.Form1.resources
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.Resources.resources
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.exe
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.xml
+C:\Users\felix\source\repos\bintodec\bintodec\obj\Debug\bintodec.pdb

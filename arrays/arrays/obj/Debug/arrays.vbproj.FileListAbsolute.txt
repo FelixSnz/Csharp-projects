@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\felix\source\repos\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\felix\source\repos\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\felix\source\repos\arrays\arrays\bin\Debug\arrays.xml
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.Form1.resources
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.Resources.resources
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.xml
+C:\Users\felix\source\repos\arrays\arrays\obj\Debug\arrays.pdb

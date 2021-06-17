@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\sen cos\sen cos\bin\Debug\sen cos.exe.config
+C:\Users\felix\source\repos\sen cos\sen cos\bin\Debug\sen cos.exe
+C:\Users\felix\source\repos\sen cos\sen cos\bin\Debug\sen cos.pdb
+C:\Users\felix\source\repos\sen cos\sen cos\bin\Debug\sen cos.xml
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen cos.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen_cos.Form1.resources
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen_cos.Resources.resources
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen cos.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen cos.exe
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen cos.xml
+C:\Users\felix\source\repos\sen cos\sen cos\obj\Debug\sen cos.pdb

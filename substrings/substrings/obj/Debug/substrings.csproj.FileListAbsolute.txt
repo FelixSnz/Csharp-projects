@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\substrings\substrings\bin\Debug\substrings.exe.config
+C:\Users\felix\source\repos\substrings\substrings\bin\Debug\substrings.exe
+C:\Users\felix\source\repos\substrings\substrings\bin\Debug\substrings.pdb
+C:\Users\felix\source\repos\substrings\substrings\obj\Debug\substrings.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\substrings\substrings\obj\Debug\substrings.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\substrings\substrings\obj\Debug\substrings.exe
+C:\Users\felix\source\repos\substrings\substrings\obj\Debug\substrings.pdb

@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\bin\Debug\subrutinacelcius.exe.config
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\bin\Debug\subrutinacelcius.exe
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\bin\Debug\subrutinacelcius.pdb
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\obj\Debug\subrutinacelcius.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\obj\Debug\subrutinacelcius.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\obj\Debug\subrutinacelcius.exe
+C:\Users\felix\source\repos\subrutinacelcius\subrutinacelcius\obj\Debug\subrutinacelcius.pdb

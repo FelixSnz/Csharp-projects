@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\bin\Debug\ejercicio con funcion 2.exe.config
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\bin\Debug\ejercicio con funcion 2.exe
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\bin\Debug\ejercicio con funcion 2.pdb
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\bin\Debug\ejercicio con funcion 2.xml
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio con funcion 2.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio_con_funcion_2.Form1.resources
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio_con_funcion_2.Resources.resources
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio con funcion 2.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio con funcion 2.exe
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio con funcion 2.xml
+C:\Users\felix\source\repos\ejercicio con funcion 2\ejercicio con funcion 2\obj\Debug\ejercicio con funcion 2.pdb

@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\select case 1\select case 1\bin\Debug\select case 1.exe.config
+C:\Users\felix\source\repos\select case 1\select case 1\bin\Debug\select case 1.exe
+C:\Users\felix\source\repos\select case 1\select case 1\bin\Debug\select case 1.pdb
+C:\Users\felix\source\repos\select case 1\select case 1\bin\Debug\select case 1.xml
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select case 1.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select_case_1.Form1.resources
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select_case_1.Resources.resources
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select case 1.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select case 1.exe
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select case 1.xml
+C:\Users\felix\source\repos\select case 1\select case 1\obj\Debug\select case 1.pdb

@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\bin\Debug\ejemplo strings.exe.config
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\bin\Debug\ejemplo strings.exe
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\bin\Debug\ejemplo strings.pdb
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\obj\Debug\ejemplo strings.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\obj\Debug\ejemplo strings.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\obj\Debug\ejemplo strings.exe
+C:\Users\felix\source\repos\ejemplo strings\ejemplo strings\obj\Debug\ejemplo strings.pdb

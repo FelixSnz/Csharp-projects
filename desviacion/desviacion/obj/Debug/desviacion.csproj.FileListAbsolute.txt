@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\desviacion\desviacion\bin\Debug\desviacion.exe.config
+C:\Users\felix\source\repos\desviacion\desviacion\bin\Debug\desviacion.exe
+C:\Users\felix\source\repos\desviacion\desviacion\bin\Debug\desviacion.pdb
+C:\Users\felix\source\repos\desviacion\desviacion\obj\Debug\desviacion.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\desviacion\desviacion\obj\Debug\desviacion.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\desviacion\desviacion\obj\Debug\desviacion.exe
+C:\Users\felix\source\repos\desviacion\desviacion\obj\Debug\desviacion.pdb

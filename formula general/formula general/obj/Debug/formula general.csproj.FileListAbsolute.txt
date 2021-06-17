@@ -1,0 +1,7 @@
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\bin\Debug\formula general.exe.config
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\bin\Debug\formula general.exe
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\bin\Debug\formula general.pdb
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\obj\Debug\formula general.csprojAssemblyReference.cache
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\obj\Debug\formula general.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\obj\Debug\formula general.exe
+C:\Users\felix\Desktop\program avanzada\formula general\formula general\obj\Debug\formula general.pdb

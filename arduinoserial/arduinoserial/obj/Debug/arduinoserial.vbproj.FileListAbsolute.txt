@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\bin\Debug\arduinoserial.exe.config
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\bin\Debug\arduinoserial.exe
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\bin\Debug\arduinoserial.pdb
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\bin\Debug\arduinoserial.xml
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.Form1.resources
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.Resources.resources
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.exe
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.xml
+C:\Users\felix\source\repos\arduinoserial\arduinoserial\obj\Debug\arduinoserial.pdb

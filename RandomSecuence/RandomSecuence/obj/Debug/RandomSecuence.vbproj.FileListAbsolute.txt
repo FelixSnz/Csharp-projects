@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\bin\Debug\RandomSecuence.exe.config
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\bin\Debug\RandomSecuence.exe
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\bin\Debug\RandomSecuence.pdb
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\bin\Debug\RandomSecuence.xml
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.Form1.resources
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.Resources.resources
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.exe
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.xml
+C:\Users\felix\source\repos\RandomSecuence\RandomSecuence\obj\Debug\RandomSecuence.pdb

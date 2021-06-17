@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\for\for\bin\Debug\for.exe.config
+C:\Users\felix\source\repos\for\for\bin\Debug\for.exe
+C:\Users\felix\source\repos\for\for\bin\Debug\for.pdb
+C:\Users\felix\source\repos\for\for\bin\Debug\for.xml
+C:\Users\felix\source\repos\for\for\obj\Debug\for.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\for\for\obj\Debug\for.Form1.resources
+C:\Users\felix\source\repos\for\for\obj\Debug\for.Resources.resources
+C:\Users\felix\source\repos\for\for\obj\Debug\for.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\for\for\obj\Debug\for.exe
+C:\Users\felix\source\repos\for\for\obj\Debug\for.xml
+C:\Users\felix\source\repos\for\for\obj\Debug\for.pdb

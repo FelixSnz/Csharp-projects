@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\bin\Debug\enteroabinario.exe.config
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\bin\Debug\enteroabinario.exe
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\bin\Debug\enteroabinario.pdb
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\obj\Debug\enteroabinario.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\obj\Debug\enteroabinario.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\obj\Debug\enteroabinario.exe
+C:\Users\felix\source\repos\enteroabinario\enteroabinario\obj\Debug\enteroabinario.pdb

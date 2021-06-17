@@ -1,0 +1,6 @@
+C:\Users\felix\source\repos\sumamatrices\sumamatrices\obj\Debug\sumamatrices.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\sumamatrices\sumamatrices\bin\Debug\sumamatrices.exe.config
+C:\Users\felix\source\repos\sumamatrices\sumamatrices\bin\Debug\sumamatrices.exe
+C:\Users\felix\source\repos\sumamatrices\sumamatrices\bin\Debug\sumamatrices.pdb
+C:\Users\felix\source\repos\sumamatrices\sumamatrices\obj\Debug\sumamatrices.exe
+C:\Users\felix\source\repos\sumamatrices\sumamatrices\obj\Debug\sumamatrices.pdb

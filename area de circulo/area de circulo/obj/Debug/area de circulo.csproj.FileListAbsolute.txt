@@ -1,0 +1,7 @@
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\bin\Debug\area de circulo.exe.config
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\bin\Debug\area de circulo.exe
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\bin\Debug\area de circulo.pdb
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\obj\Debug\area de circulo.csprojAssemblyReference.cache
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\obj\Debug\area de circulo.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\obj\Debug\area de circulo.exe
+C:\Users\felix\Desktop\program avanzada\area de circulo\area de circulo\obj\Debug\area de circulo.pdb

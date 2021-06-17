@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\array3d\array3d\obj\Debug\array3d.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\array3d\array3d\obj\Debug\array3d.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\array3d\array3d\bin\Debug\array3d.exe.config
+C:\Users\felix\source\repos\array3d\array3d\bin\Debug\array3d.exe
+C:\Users\felix\source\repos\array3d\array3d\bin\Debug\array3d.pdb
+C:\Users\felix\source\repos\array3d\array3d\obj\Debug\array3d.exe
+C:\Users\felix\source\repos\array3d\array3d\obj\Debug\array3d.pdb

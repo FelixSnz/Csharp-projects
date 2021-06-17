@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\bin\Debug\ecsegundogrado.exe.config
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\bin\Debug\ecsegundogrado.exe
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\bin\Debug\ecsegundogrado.pdb
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\obj\Debug\ecsegundogrado.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\obj\Debug\ecsegundogrado.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\obj\Debug\ecsegundogrado.exe
+C:\Users\felix\source\repos\ecsegundogrado\ecsegundogrado\obj\Debug\ecsegundogrado.pdb

@@ -1,0 +1,13 @@
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\bin\Debug\ejemplo2 forms.exe.config
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\bin\Debug\ejemplo2 forms.exe
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\bin\Debug\ejemplo2 forms.pdb
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\bin\Debug\ejemplo2 forms.xml
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2 forms.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2_forms.Form2.resources
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2_forms.Resources.resources
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2 forms.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2 forms.exe
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2 forms.xml
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2 forms.pdb
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2_forms.Form1.resources
+C:\Users\felix\source\repos\ejemplo2 forms\ejemplo2 forms\obj\Debug\ejemplo2_forms.Form3.resources

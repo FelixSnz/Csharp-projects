@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\timer30segs\timer30segs\bin\Debug\timer30segs.exe.config
+C:\Users\felix\source\repos\timer30segs\timer30segs\bin\Debug\timer30segs.exe
+C:\Users\felix\source\repos\timer30segs\timer30segs\bin\Debug\timer30segs.pdb
+C:\Users\felix\source\repos\timer30segs\timer30segs\bin\Debug\timer30segs.xml
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.Form1.resources
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.Resources.resources
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.exe
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.xml
+C:\Users\felix\source\repos\timer30segs\timer30segs\obj\Debug\timer30segs.pdb

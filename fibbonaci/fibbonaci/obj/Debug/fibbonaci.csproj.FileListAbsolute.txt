@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\bin\Debug\fibbonaci.exe.config
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\bin\Debug\fibbonaci.exe
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\bin\Debug\fibbonaci.pdb
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\obj\Debug\fibbonaci.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\obj\Debug\fibbonaci.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\obj\Debug\fibbonaci.exe
+C:\Users\felix\source\repos\fibbonaci\fibbonaci\obj\Debug\fibbonaci.pdb

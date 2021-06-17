@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\4pots\4pots\bin\Debug\4pots.exe.config
+C:\Users\felix\source\repos\4pots\4pots\bin\Debug\4pots.exe
+C:\Users\felix\source\repos\4pots\4pots\bin\Debug\4pots.pdb
+C:\Users\felix\source\repos\4pots\4pots\bin\Debug\4pots.xml
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\4pots.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\_4pots.Form1.resources
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\_4pots.Resources.resources
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\4pots.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\4pots.exe
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\4pots.xml
+C:\Users\felix\source\repos\4pots\4pots\obj\Debug\4pots.pdb

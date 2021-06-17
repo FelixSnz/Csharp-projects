@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\bin\Debug\calificacionesfinales.exe.config
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\bin\Debug\calificacionesfinales.exe
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\bin\Debug\calificacionesfinales.pdb
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\obj\Debug\calificacionesfinales.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\obj\Debug\calificacionesfinales.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\obj\Debug\calificacionesfinales.exe
+C:\Users\felix\source\repos\calificacionesfinales\calificacionesfinales\obj\Debug\calificacionesfinales.pdb

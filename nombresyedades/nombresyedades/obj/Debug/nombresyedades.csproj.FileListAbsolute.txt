@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\bin\Debug\nombresyedades.exe.config
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\bin\Debug\nombresyedades.exe
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\bin\Debug\nombresyedades.pdb
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\obj\Debug\nombresyedades.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\obj\Debug\nombresyedades.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\obj\Debug\nombresyedades.exe
+C:\Users\felix\source\repos\nombresyedades\nombresyedades\obj\Debug\nombresyedades.pdb

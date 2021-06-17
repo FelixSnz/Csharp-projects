@@ -1,0 +1,7 @@
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\bin\Debug\ejemplo 3.exe.config
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\bin\Debug\ejemplo 3.exe
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\bin\Debug\ejemplo 3.pdb
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\obj\Debug\ejemplo 3.csprojAssemblyReference.cache
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\obj\Debug\ejemplo 3.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\obj\Debug\ejemplo 3.exe
+C:\Users\felix\Desktop\program avanzada\ejemplo 3\ejemplo 3\obj\Debug\ejemplo 3.pdb

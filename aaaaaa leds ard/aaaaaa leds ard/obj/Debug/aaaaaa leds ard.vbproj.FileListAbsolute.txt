@@ -1,0 +1,11 @@
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\bin\Debug\aaaaaa leds ard.exe.config
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\bin\Debug\aaaaaa leds ard.exe
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\bin\Debug\aaaaaa leds ard.pdb
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\bin\Debug\aaaaaa leds ard.xml
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa leds ard.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa_leds_ard.Form1.resources
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa_leds_ard.Resources.resources
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa leds ard.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa leds ard.exe
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa leds ard.xml
+C:\Users\felix\source\repos\aaaaaa leds ard\aaaaaa leds ard\obj\Debug\aaaaaa leds ard.pdb
