@@ -32,7 +32,7 @@ namespace ecsegundogrado
                     (result_1, result_2) = GetSqrts(a, b, c);
 
                     Console.WriteLine("Las raices son x1:{0} y x2:{1} ", result_1, result_2);
-                    Console.ReadKey();
+                    
 
 
                     Console.WriteLine("Realizar operacion de nuevo? y/n"); // se pregunta al usuario si quiere correr el programa otra vez
@@ -44,9 +44,10 @@ namespace ecsegundogrado
 
             catch (Exception err)
             {
-                Console.ForegroundColor = ConsoleColor.Green;
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Hubo un error en el programa: {0}", err.Message); //imprime mensaje de error
             }
+            Console.ReadKey();
         }
         private static (double, double) GetSqrts(double a1, double b1, double c1)//subrutina para obtener raices de ecuaciond e segundo grado
         {
@@ -61,9 +62,9 @@ namespace ecsegundogrado
             }
             else
             {
-                //en casi de la raiz de la ecuacion ser 0 las raices son 0
-                x1 = 0;
-                x2 = 0;
+                //en casi de la raiz de la ecuacion ser 0 las raices son 0th
+
+                throw new InvalidOperationException("las raices de la ecuacion son complejas");
 
             }
             return (x1, x2);

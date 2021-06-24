@@ -1,0 +1,10 @@
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\bin\Debug\windowsforms1.exe.config
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\bin\Debug\windowsforms1.exe
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\bin\Debug\windowsforms1.pdb
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.Form1.resources
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.Properties.Resources.resources
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.exe
+C:\Users\felix\source\repos\windowsforms1\windowsforms1\obj\Debug\windowsforms1.pdb
