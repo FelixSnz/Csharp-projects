@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecuacion_cuadratica_forms", "ecuacion_cuadratica_forms\ecuacion_cuadratica_forms.csproj", "{1197FD1B-59AE-4EF2-9704-DEBAF43F704E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1197FD1B-59AE-4EF2-9704-DEBAF43F704E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1197FD1B-59AE-4EF2-9704-DEBAF43F704E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1197FD1B-59AE-4EF2-9704-DEBAF43F704E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1197FD1B-59AE-4EF2-9704-DEBAF43F704E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669E0FB6-3E26-4682-B4BB-E45895D3EE0F}
+	EndGlobalSection
+EndGlobal

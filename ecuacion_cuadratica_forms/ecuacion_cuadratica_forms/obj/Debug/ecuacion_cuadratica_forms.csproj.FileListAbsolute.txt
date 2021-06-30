@@ -1,0 +1,10 @@
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.Form1.resources
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.Properties.Resources.resources
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\bin\Debug\ecuacion_cuadratica_forms.exe.config
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\bin\Debug\ecuacion_cuadratica_forms.exe
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\bin\Debug\ecuacion_cuadratica_forms.pdb
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.exe
+C:\Users\felix\source\repos\ecuacion_cuadratica_forms\ecuacion_cuadratica_forms\obj\Debug\ecuacion_cuadratica_forms.pdb
