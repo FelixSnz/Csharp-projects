@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{627A6B10-D228-4395-8138-0D040516C1B1}</ProjectGuid>
+    <ProjectGuid>{63F23C66-AAC5-421E-B77D-CFD24B679A72}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>conversion_temperaturas</RootNamespace>
-    <AssemblyName>conversion-temperaturas</AssemblyName>
+    <RootNamespace>calculadora_winforms</RootNamespace>
+    <AssemblyName>calculadora-winforms</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

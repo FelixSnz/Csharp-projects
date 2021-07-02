@@ -1,0 +1,10 @@
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\bin\Debug\calculadora-winforms.exe.config
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\bin\Debug\calculadora-winforms.exe
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\bin\Debug\calculadora-winforms.pdb
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora-winforms.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora_winforms.Form1.resources
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora_winforms.Properties.Resources.resources
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora-winforms.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora-winforms.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora-winforms.exe
+C:\Users\felix\source\repos\calculadora-winforms\calculadora-winforms\obj\Debug\calculadora-winforms.pdb

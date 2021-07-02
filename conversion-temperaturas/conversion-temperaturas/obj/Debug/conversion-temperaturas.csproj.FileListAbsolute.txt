@@ -1,0 +1,10 @@
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\bin\Debug\conversion-temperaturas.exe.config
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\bin\Debug\conversion-temperaturas.exe
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\bin\Debug\conversion-temperaturas.pdb
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion-temperaturas.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion_temperaturas.Form1.resources
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion_temperaturas.Properties.Resources.resources
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion-temperaturas.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion-temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion-temperaturas.exe
+C:\Users\felix\source\repos\conversion-temperaturas\conversion-temperaturas\obj\Debug\conversion-temperaturas.pdb
