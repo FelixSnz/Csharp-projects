@@ -111,6 +111,7 @@ namespace calculadora_winforms
 
             try
             {
+                MessageBox.Show(memory.ToString());
                 result = operation(memory, Convert.ToDouble(new_text));
             }
             catch(Exception err)
@@ -221,8 +222,7 @@ namespace calculadora_winforms
         {
             memory = Convert.ToDouble(textBox1.Text);
             textBox1.Clear();
-            
-
+           
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -231,6 +231,7 @@ namespace calculadora_winforms
             {
                 string new_value;
                 new_value = textBox1.Text + ".";
+                MessageBox.Show(new_value);
                 textBox1.Text = new_value;
             }
             

@@ -1,0 +1,10 @@
+C:\Users\felix\source\repos\temporizador\temporizador\bin\Debug\temporizador.exe.config
+C:\Users\felix\source\repos\temporizador\temporizador\bin\Debug\temporizador.exe
+C:\Users\felix\source\repos\temporizador\temporizador\bin\Debug\temporizador.pdb
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.Form1.resources
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.Properties.Resources.resources
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.exe
+C:\Users\felix\source\repos\temporizador\temporizador\obj\Debug\temporizador.pdb
